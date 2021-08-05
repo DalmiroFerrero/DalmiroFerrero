@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dalmiro ferrero" target="blank">
+<a href="https://linkedin.com/in/dalmiro-ferrero" target="blank">
   <img align="center" src="https://image.flaticon.com/icons/png/512/168/168771.png" alt="Dalmiro LinkdeIN" height="40" width="40" />
 </a>
 <a href="https://instagram.com/dalmiro.codes" target="blank">
